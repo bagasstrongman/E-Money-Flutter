@@ -4,7 +4,7 @@
 | ------------- | -------------    | 
 | [![Screenshot-1646204144.png](https://i.postimg.cc/J7c6XGx8/Screenshot-1646204144.png)](https://postimg.cc/Z0nxtYXs) | [![Screenshot-1646204148.png](https://i.postimg.cc/zXzdF82g/Screenshot-1646204148.png)](https://postimg.cc/PN7ztsjX)  |
 
-Font use in this App Concept : [Rowdies Font](https://fonts.google.com/specimen/Rowdies?preview.size=38&query=rowdies) 
+Font use in this App Concept : [Rowdies Font](https://fonts.google.com/specimen/Rowdies?preview.size=38&query=rowdies) & [Source Serif Font](https://fonts.google.com/specimen/Source+Serif+Pro?preview.size=38&query=source+serif)
 
 A new Flutter project.
 
