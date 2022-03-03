@@ -4,6 +4,8 @@
 | ------------- | -------------    | 
 | [![Screenshot-1646204144.png](https://i.postimg.cc/J7c6XGx8/Screenshot-1646204144.png)](https://postimg.cc/Z0nxtYXs) | [![Screenshot-1646204148.png](https://i.postimg.cc/zXzdF82g/Screenshot-1646204148.png)](https://postimg.cc/PN7ztsjX)  |
 
+Font use in this App Concept : [Rowdies Font](https://fonts.google.com/specimen/Rowdies?preview.size=38&query=rowdies) 
+
 A new Flutter project.
 
 ## Getting Started
